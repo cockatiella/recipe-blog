@@ -30,8 +30,7 @@
 ## Features
 
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
-
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. 
 
 
 ## How To Use
